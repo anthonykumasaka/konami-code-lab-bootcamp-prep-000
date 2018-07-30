@@ -11,6 +11,8 @@ const codes = [
   "a"
 ];
 
+document.body.event
+
 function init() {
   
 }
